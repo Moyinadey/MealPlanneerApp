@@ -1,0 +1,13 @@
+CST8285, Section 301 - Web Programming
+Author - Thomas Graham
+Assignment 2
+Meal Planner
+foodDatabase Description
+Professor: Hala Own
+--
+--
+The foodDatabase contains two tables. The first table is the users table
+with userID, username, height and weight as parameters. The second table
+is the food table with foodID, name, calories, and foodUserID as parameters.
+foodUserID is a foreign key constraint from the primary key userID from
+the users table.

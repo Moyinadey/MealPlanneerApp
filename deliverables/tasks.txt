@@ -1,0 +1,38 @@
+CST8285, Section 301 - Web Programming
+Author - Thomas Graham
+Assignment 2
+Meal Planner
+Tasks
+Professor: Hala Own
+--
+--
+
+Thomas Graham (Team Lead):
+-backend skeleton and overall structure of website
+-food table of database
+-application idea
+-userIndex, add, view, edit and delete users
+-addFood, select user from drop down
+-web map, database description
+
+Fionn McKercher (Back End Developer):
+-user table of database
+-functionality report
+-GetMealPlan meal plan generator
+-coordination of final draft from front end
+
+Moyin Adeyemo (Front End Developer):
+-calorie calculator 
+-server side form validation
+-HTML edits from skeleton
+
+Tasmiara Islam (Front End Designer):
+-CSS
+-created final look of website from given code
+-Edits to HTML and PHP 
+
+
+
+
+
+
